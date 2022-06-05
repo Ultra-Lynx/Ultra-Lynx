@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ultra-Lynx i am a python programmer, a youtuber and also a full time student.
+- 👀 I’m interested in all things in artificial intelligence , maths and computer science particularly the segment where the two intersect in the world of quantum computing
+- 🌱 I’m currently learning how to program in manim , how to develop a mathematical intuition and improve my understanding in computer science in general.
+- 💞️ I’m looking to collaborate on anything programming related you need help with in python.
+- 📢 reach me on @UltraLynx on twiter
